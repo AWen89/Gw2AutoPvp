@@ -1,7 +1,9 @@
 # Gw2AutoPvp ~ Guild Wars 2 Automatic Pvp Bot
 # 一款激战2自动竞技场机器人脚本bot
 ---
-![](logo.png)
+<p align="center">
+  <img src="logo.png" />
+</p>
 
 ## 写在前面
 - **此项目完全免费！禁止倒卖。倒卖的先死个妈**😀
