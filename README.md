@@ -27,7 +27,7 @@
 - [x] 永久免费
 
 ## 视频演示
-- 待添加
+- [这里这里！](https://www.bilibili.com/video/BV1eN411t72b/?vd_source=0940bf29b38efba56ccfc6a3cef8182d)
 
 ## 如何使用
 - 详情请见[使用教程](./%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/%E6%95%99%E7%A8%8B%E6%95%99%E5%AD%A6.md)
