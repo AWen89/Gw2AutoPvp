@@ -207,6 +207,11 @@ class MainControl():
     # main
     def script_main(self):
         # registration()                                                        # 软件注册,因开源-已取消注册
+        color_print(
+            'INFO', '本项目永久免费。开源地址: https://github.com/Jai-wei/Gw2AutoPvp/')
+        color_print(
+            'INFO', '如果你是在闲鱼购买的，请立即退款！')
+        time.sleep(2)
         self.gw2_hwnd = get_gw2_window_hwnd()                                   # 选择游戏窗口句柄
         self.is_leader = leader_mode_select()                                   # 选择队长/队员模式
         self.title_h = set_win_locat(self.gw2_hwnd)                             # 设置窗口大小及位置
@@ -224,3 +229,4 @@ class MainControl():
 if __name__ == '__main__':
     T = MainControl()
     T.script_main()
+    input()
