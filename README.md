@@ -25,6 +25,7 @@
 - [x] 3V3/2V2模式(不寻路，直线向前走)
 - [ ] 交互界面GUI
 - [x] 永久免费
+- [x] 自动检查更新 
 
 ## 视频演示
 - [这里这里！](https://www.bilibili.com/video/BV1E8411k7R1/?spm_id_from=333.999.0.0&vd_source=0940bf29b38efba56ccfc6a3cef8182d)
