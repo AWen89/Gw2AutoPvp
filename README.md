@@ -2,7 +2,7 @@
 # 一款激战2自动竞技场机器人脚本bot
 ---
 <p align="center">
-  <img src="logo.png" />
+  <img src="page.jpg" />
 </p>
 
 ## 写在前面
